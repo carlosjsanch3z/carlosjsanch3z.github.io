@@ -17,7 +17,7 @@ Administrador de sistemas y redes
 
 ## Actualmente
 
-Estoy cursando con [matricula Parcial], el ciclo formativo superior de Administración de Sistemas Informáticos en Red.
+Estoy cursando con __matricula Parcial__ , el ciclo formativo superior de Administración de Sistemas Informáticos en Red.
 ## Empleo
 
 `2015-` 
