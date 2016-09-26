@@ -6,11 +6,11 @@ title: Carlos Jesus's CV
 Administrador de sistemas y redes
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:ben@blm.io">carlosjsanchezortega@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/carlosjsanch3z">CarlosJSanch3z</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="#">Carlos J. Sánchez</a>
 </div>
 
 
