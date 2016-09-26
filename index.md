@@ -29,7 +29,7 @@ __1er Año__ Administración de Sistemas Informáticos en Red
 __Facebook S.L.__ Community Manager
 
 `2011-12`
-__PCCOMPONENTES Administrador de Sistemas (_Dominios_)
+__PCCOMPONENTES__ Administrador de Sistemas (_Dominios_)
 
 `2008-11`
 __Google Inc.__ Desarrollador Web ( HTML5,CSS3,Javascript )
