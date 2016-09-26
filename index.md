@@ -55,24 +55,12 @@ A2
 
 ## Cursos
 
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+__Curso de diseño Photoshop CC__
 
 
 ## Información adicional
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+*  Carnet de conducir
+*  Disponibilidad Inmediata
 
-## References
 
-Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
