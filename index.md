@@ -34,28 +34,24 @@ __PCCOMPONENTES__ Administrador de Sistemas (_Dominios_)
 `2008-11`
 __Google Inc.__ Desarrollador Web ( HTML5,CSS3,Javascript )
 
-## Technical skills
+## Habilidades Técnicas
 
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
+* 
+* Joomla
+* Wordpress
+* Git
 * UNIX
 * Python
-* Machine learning
 * Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
 * Cluster computing
 * HTML and CSS
 * Javascript
+* Windows Server
 
 
 ## Idiomas
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+A2
 
 ## Cursos
 
