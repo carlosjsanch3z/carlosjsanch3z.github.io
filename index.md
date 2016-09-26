@@ -21,56 +21,19 @@ Estoy cursando con __matricula Parcial__ , el ciclo formativo superior de Admini
 ## Empleo
 
 `2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+__1er Año__ Administración de Sistemas Informáticos en Red
 
-## Education
+## Puestos de trabajo
 
 `2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+__Facebook S.L.__ Community Manager
 
 `2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+__PCCOMPONENTES Administrador de Sistemas (_Dominios_)
 
 `2008-11`
-__University of York__ BSc Biology (_First class honours_)
+__Google Inc.__ Desarrollador Web ( HTML5,CSS3,Javascript )
 
-## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
 
 
 ## Publications
