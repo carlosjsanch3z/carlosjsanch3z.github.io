@@ -7,7 +7,7 @@ title: Carlos Jesus's CV
 Administrador de sistemas y redes
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">carlosjsanchezortega@gmail.com</a>
+<a href="mailto:carlosjsanchezortega@gmail.com">carlosjsanchezortega@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/carlosjsanch3z">CarlosJSanch3z</a>
 |
@@ -15,7 +15,7 @@ Administrador de sistemas y redes
 </div>
 
 
-## Currently
+## Actualmente
 
 I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
 
