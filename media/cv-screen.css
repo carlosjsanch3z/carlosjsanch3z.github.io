@@ -52,6 +52,13 @@ table {
 /* faux Wikipedia logo font */
 @font-face { font-family: 'Linux Libertine'; font-style: normal; font-weight: 400; src: local('Linux Libertine'),url(//brick.a.ssl.fastly.net/fonts/linuxlibertine/400.woff) format('woff'); } .fa-wikipedia:before { font-family: 'Linux Libertine', 'Times New Roman', Times, serif; font-weight: 400; content: "W"; }
 
+/* Imagen de perfil */
+
+img[alt=profile] {
+   max-width:  100px;
+   display: block;
+}
+
 body {
 	font: normal normal 400;
 	font-size: 80%;
