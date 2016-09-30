@@ -177,8 +177,8 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 25%;
-	color: #aaa;
+ 	margin-left: 25%;
+	color: red;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
