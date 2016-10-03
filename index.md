@@ -2,7 +2,7 @@
 layout: cv
 title: Carlos Jesus's CV
 ---
-## ![profile](https://carlosjsanch3z.github.io/images/profile.jpg)
+# ![profile](https://carlosjsanch3z.github.io/images/profile.jpg)
 
 # Soy Carlos J. Sánchez Ortega:
 
