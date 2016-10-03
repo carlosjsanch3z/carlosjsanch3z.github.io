@@ -4,9 +4,9 @@ title: Carlos Jesus's CV
 ---
 ## ![profile](https://carlosjsanch3z.github.io/images/profile.jpg)
 
-# Más información sobre mi
+# Soy Carlos J. Sánchez Ortega:
 
-Soy un apasionado de las nuevas tecnologías, el diseño web, los videojuegos online, el diseño gráfico y todo lo relacionado con los temas anteriores.
+Un apasionado de las nuevas tecnologías, el diseño web, los videojuegos online, el diseño gráfico y todo lo relacionado con los temas anteriores.
 
 
-[Volver a la página principal](https://carlosjsanch3z.github.io/)
+[Curriculum](https://carlosjsanch3z.github.io/about)

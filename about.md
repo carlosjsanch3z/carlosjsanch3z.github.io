@@ -7,7 +7,7 @@ title: Carlos Jesus's CV
 Administrador de sistemas y redes
 
 <div id="webaddress">
-<a href="https://carlosjsanch3z.github.io/about">Ir a la pagina "About.md"</a>
+<a href="https://carlosjsanch3z.github.io">Volver a la página principal</a>
 </div>
 
 
