@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: index
 title: Carlos Jesus's CV
 ---
 # ![profile](https://carlosjsanch3z.github.io/images/profile.jpg)
