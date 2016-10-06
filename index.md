@@ -11,4 +11,4 @@ Un apasionado de las nuevas tecnologías, el diseño web, los videojuegos online
 
 * [Curriculum](https://carlosjsanch3z.github.io/about)
 * [Repositorio](https://github.com/carlosjsanch3z/carlosjsanch3z.github.io)
-* [Documentación]
+* [Documentación](https://carlosjsanch3z.github.io/documentacion)
